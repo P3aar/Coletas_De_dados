@@ -3,20 +3,14 @@ Projeto Python para coleta e processamento de dados. Desenvolvido para extrair, 
 
 ✨ Funcionalidades
 Coleta automatizada de dados
-
 Processamento e limpeza das informações
-
 Análise e organização dos resultados
-
 Exportação dos dados processados
 
 🛠️ Tecnologias Utilizadas
 Python
-
 Bibliotecas de processamento de dados
-
 Ferramentas de web scraping
-
 Utilitários para análise de dados
 
 📁 Estrutura do Projeto
